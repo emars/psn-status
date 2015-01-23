@@ -1,0 +1,24 @@
+{
+  "name": "psn",
+  "version": "1.0.0",
+  "description": "get status of psn",
+  "main": "psn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emars/psn-status.git"
+  },
+  "author": "emars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emars/psn-status/issues"
+  },
+  "homepage": "https://github.com/emars/psn-status",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0",
+    "twilio": "^1.10.0"
+  }
+}

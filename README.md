@@ -15,6 +15,8 @@ First Create a config.json file
 }
 ```
 
+install ```npm install```
+
 run ```node psn.js```
 
 Wait patiently 
